@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Welcome to<br>Scimat!
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -52,7 +52,7 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Scimat concentrates on areas where mathematics and computing are most relevant to each other, emphasizing the bridges between theory and practice. We offer opportunities for potential computer scientists both to develop a deeper understanding of the mathematical foundations of their subject, and to acquire a familiarity with the mathematics of application areas where computers can solve otherwise intractable problems.
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
