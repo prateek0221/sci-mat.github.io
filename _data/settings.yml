@@ -13,7 +13,7 @@ copyright: Copyright Scimat Club
 menu:
 - {name: About, link: '/about'}
 - {name: Blog, link: '/blog'}
-- {name: Portfolio, link: '/portfolio'}
+- {name: Events, link: '/events'}
 - {name: Contact, link: '/contact'}
 
 
@@ -77,7 +77,7 @@ work-process:
 
 # My Team Section
 team:
-  - title : "Jack Schenziwe"
+  - title : "Prateek"
     image : "assets/images/team/member-1.png"
     designation : "Project Manager"
 
@@ -88,61 +88,58 @@ team:
   - title : "John Doe"
     image : "assets/images/team/member-3.png"
     designation : "Designer"
-
-
 #-------------------------------
 # Skills Section
 
-skills-title: Skills
-skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+# skills-title: Our Event Composition
+# skills:
+# - {name: App Development, color: '#fdb157', value: '100%'}
+# - {name: Web Development, color: '#bdecf6', value: '80%'}
+# - {name: Computational Neuroscience, color: '#9473e6', value: '100%'}
+# - {name: Competitive Programming, color: '#ffbcaa', value: '70%'}
 
 
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
-experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+# experience-title: Experience
+# experience:
+# - {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
+# - {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
+# - {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
 
 
 #-------------------------------
 # Education Section
 
-education-title: Education
-education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
-
+# education-title: Education
+# education:
+# - {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
+# - {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
+# - {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
+# - {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
 
 #-------------------------------
 # Services Section
 
-services-title: Services
+services-title: Areas of Expertise
 services:
 - {
-    name: UI Design,
+    name: App and Web Development,
     icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'How to make interactive interfaces from our mathematical projects, gives a brief introduction to coding as well.',
     active: # Add true to select section
   }
 - {
-    name: UX Design,
+    name: Computational Neuroscience,
     icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'Computational neuroscience is the field of study in which mathematical tools and theories are used to investigate brain function.',
     active: true # Add true to select section
   }
 - {
-    name: Interaction Design,
+    name: Competitive Coding,
     icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'Diving into logical or mathematical problems and coming up with optimised approaches to solve them using computer programs.',
     active: # Add true to select section
   }
 
