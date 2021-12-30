@@ -64,15 +64,15 @@ blurb-btn-name: know more
 work-process:
   - title : "Research and Plan"
     icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "We strive to provide the students that join the club with properly researched information on the topics we hold our workshops on. Our executive committee also aims to ensure that all events are well-planned."
 
   - title : "Design and Develop"
     icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "We shall concentrate on helping students in the fruition of their own ideas in terms of design and development."
 
   - title : "Deliver"
     icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "We aim to deliver quality over quantity in all of our workshops. We want to create real connections between the students and the heads of the club."
 
 
 # My Team Section
@@ -137,7 +137,7 @@ services:
     active: true # Add true to select section
   }
 - {
-    name: Competitive Coding,
+    name: Competitive Programming,
     icon: ti-panel,
     description: 'Diving into logical or mathematical problems and coming up with optimised approaches to solve them using computer programs.',
     active: # Add true to select section
@@ -169,16 +169,16 @@ portfolio-home-items:
 # Portfolio Page
 portfolio-label:
 - {
-    title : "UI/UX Design",
-    type : "design"
+    title : "Computational Neuroscience",
+    type : "cn"
   }
 - {
-    title : "BRANDING",
-    type : "branding"
+    title : "App/Web Development",
+    type : "webdapp"
   }
 - {
-    title : "ILLUSTRATION",
-    type : "illustration"
+    title : "Competitive Programming",
+    type : "cp"
   }
 
 portfolio-items:
